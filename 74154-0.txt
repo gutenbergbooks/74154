@@ -1,8 +1,3 @@
-                                  The
-                  Reaction between Manganese Dioxide
-                                  and
-                        Potassium Permanganate.
-
                              Dissertation
                       presented for the degree of
                          Doctor of Philosophy
@@ -21,7 +16,7 @@ Acknowledgment----
 
 The work recorded in this paper is the result of a suggestion given by
 Professor H. N. Morse. It has received his careful attention throughout
-it’s course. For his instruction and exact criticism, I wish to offer
+its course. For his instruction and exact criticism, I wish to offer
 my acknowledgment and thanks. I wish also to express to Professor Ira
 Remson my appreciation of his interest and instruction and to offer to
 Dr. J. S. Ames my thanks for his instruction in Physics----
@@ -1073,7 +1068,7 @@ rapidity of the reduction is taken into account, it seems probable that
 a reaction analogous to that between permanganic acid and hydrogen
 superoxide must also take place.
 
-Arthur John Hopkins was from September 20, 1864 in Bridgewater,
+Arthur John Hopkins was born September 20, 1864 in Bridgewater,
 Massachusetts. Receiving his preparation for college in the public
 schools of that town, he entered Amherst College in 1881 and graduated
 with the degree of A. B. in 1885. The five years following were spent
