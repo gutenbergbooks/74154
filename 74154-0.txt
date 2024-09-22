@@ -182,7 +182,7 @@ After reading off the total volume of air and oxygen and reducing
 to normal conditions, the total volume of oxygen was obtained by
 absorption with phosphorus or pyrogallol, and from the residual
 nitrogen could be calculated from the volume of air to be deducted
-from the total volume of gases. The remainder is the volume of oxygen
+the total volume of gases. The remainder is the volume of oxygen
 sought.”
 
 
@@ -655,7 +655,7 @@ prepared in the following manner.
 
 10 grams of potassium permanganate were dissolved in 500 c.c. of
 distilled water and the solution allowed to settle for one day. The
-liquid was them filtered through glass wool, heated to 65°C. and
+liquid was then filtered through glass wool, heated to 65°C. and
 treated with 320 c.c. N/10 nitric acid, having also a temperature
 of 65°C. 20.5 grams of manganous sulphate dissolved in 2.5 litres of
 water heated to 65°C, were now added, with stirring, to the acidified
@@ -752,7 +752,7 @@ potassium permanganate was added. The flasks were then immersed in the
 bath of boiling water and the time required for the disappearance of
 the permanganate color noted.
 
-The rations of the oxide to the permanganate and the times required for
+The ratios of the oxide to the permanganate and the times required for
 the reduction of the latter are embodied in the following table.
 
     Molecular Ratio   }
@@ -878,7 +878,7 @@ Three 250 c.c. portions of each of the solutions A and B were placed in
 clean glass-stoppered bottles. These bottles were labelled “a”, “a′”
 and “a″” “b”, “b′” and “b″”.
 
-a contained 250 c.c. potassium permanganate each cubic centimetre of
+“a” contained 250 c.c. potassium permanganate each cubic centimetre of
 which was equivalent to 5.278 m.g. Fe″. It was closed and put away in
 the dark and allowed to stand from June fourteenth until the fourteenth
 of the following October. Its strength was then determined and found to
